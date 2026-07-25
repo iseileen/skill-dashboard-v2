@@ -11,7 +11,7 @@
 window.DASHBOARD_DATA = {
   profile: {
     name: "凌之",
-    lang: "go1",
+    lang: "go1 rest 再來改一下, 這是go1 Brunch",
   },
   sections: [
     {
