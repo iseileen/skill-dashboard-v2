@@ -10,8 +10,8 @@
 
 window.DASHBOARD_DATA = {
   profile: {
-    name: "凌之 Eileen",
-    lang: "JavaScript",
+    name: "凌之",
+    lang: "JavaScript、PHP",
   },
   sections: [
     {
